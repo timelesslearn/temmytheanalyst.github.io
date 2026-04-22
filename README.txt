@@ -1,22 +1,16 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Data Analyst Portfolio by TEMIDAYO DANIEL
+GitHub | Data Analysis Projects
 
+Free to explore for learning and demonstration purposes.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+This is a collection of data analysis projects focused on data cleaning, exploration, visualization, and automation using real-world datasets. Built to showcase practical skills in transforming raw data into meaningful insights using tools like Python, SQL, Excel, Power BI, and Tableau.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Projects include housing data cleaning, COVID-19 data exploration, dashboard development, web scraping, and API automation. Each project demonstrates different techniques and approaches to solving data-related problems.
 
-(* = not included)
+Datasets are sourced from publicly available platforms and are used strictly for educational and portfolio purposes.
 
-AJ
-aj@lkn.io | @ajlkn
-
+TD
+Data Analyst | Python | SQL | Power BI | Tableau
 
 Credits:
 
